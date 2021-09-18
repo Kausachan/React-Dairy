@@ -1,0 +1,31 @@
+.Calender-box{
+	width : 98vw;
+	height: 80vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: absolute;
+	top:13vh;
+
+	.Calender-animate{
+		width : 50%;
+		animation: MoveInLeft 1.2s;
+		backface-visibility: hidden;
+		border-radius : 5px;
+
+		box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+	}
+
+	@keyframes MoveInLeft{
+		0%{
+			opacity: 50%;
+			transform: translateX(-700px);
+		}
+		80%{
+			transform : translateX(50px);
+		}
+		100%{
+			transform: translate(0);
+		}
+	}
+}
