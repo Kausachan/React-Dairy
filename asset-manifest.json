@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Dairy/static/css/main.53fed161.chunk.css",
+    "main.js": "/React-Dairy/static/js/main.5a6e2cb7.chunk.js",
+    "main.js.map": "/React-Dairy/static/js/main.5a6e2cb7.chunk.js.map",
+    "runtime-main.js": "/React-Dairy/static/js/runtime-main.62d11fdf.js",
+    "runtime-main.js.map": "/React-Dairy/static/js/runtime-main.62d11fdf.js.map",
+    "static/css/2.51c1bb81.chunk.css": "/React-Dairy/static/css/2.51c1bb81.chunk.css",
+    "static/js/2.5a38ec9c.chunk.js": "/React-Dairy/static/js/2.5a38ec9c.chunk.js",
+    "static/js/2.5a38ec9c.chunk.js.map": "/React-Dairy/static/js/2.5a38ec9c.chunk.js.map",
+    "index.html": "/React-Dairy/index.html",
+    "static/css/2.51c1bb81.chunk.css.map": "/React-Dairy/static/css/2.51c1bb81.chunk.css.map",
+    "static/css/main.53fed161.chunk.css.map": "/React-Dairy/static/css/main.53fed161.chunk.css.map",
+    "static/js/2.5a38ec9c.chunk.js.LICENSE.txt": "/React-Dairy/static/js/2.5a38ec9c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62d11fdf.js",
+    "static/css/2.51c1bb81.chunk.css",
+    "static/js/2.5a38ec9c.chunk.js",
+    "static/css/main.53fed161.chunk.css",
+    "static/js/main.5a6e2cb7.chunk.js"
+  ]
+}
